@@ -1,0 +1,26 @@
+.song-container {
+    text-align: center;
+  }
+  
+  .player-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .file-input {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .file-input input {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .progress-bar {
+    display: flex;
+    align-items: center;
+  }
+  
